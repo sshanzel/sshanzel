@@ -1,7 +1,7 @@
 ### Hi! I am Lee Hansel Solevilla
 
 - 👨🏽‍💻 I’m currently building something, so watch out :wink:
-- 🌱 I’m currently learning how to launch my own business.
+- 🌱 I’m currently learning new things.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [@sshanzel](https://twitter.com/sshanzel)
 
