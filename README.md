@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/sshanzel/sshanzel/blob/master/devcard.svg" width="400" alt="Lee Hansel's Dev Card"/></a>
+<a href="https://app.daily.dev/sshanzel"><img src="https://github.com/sshanzel/sshanzel/blob/master/devcard.svg" width="400" alt="Lee Hansel's Dev Card"/></a>
 
 ### Hi! I am Lee Hansel Solevilla
 
