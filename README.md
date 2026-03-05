@@ -123,7 +123,7 @@ I care about clean architecture, developer experience, and shipping things that 
 
 | | |
 |---|---|
-| 🚀 **Scaling** | Helped grow daily.dev from 200k to 1M+ users |
+| 🚀 **Scaling** | Helped grow daily.dev from 200k to 2M+ users |
 | 💰 **Revenue** | Designed & shipped a full Ads platform with billing, analytics, and campaign lifecycle |
 | 🧑‍🏫 **Leadership** | Interim tech lead — architecture, mentorship, cross-functional delivery |
 | 🌐 **Open Source** | Contributor to [daily.dev](https://github.com/dailydotdev) and [material-table](https://github.com/mbrn/material-table) |
