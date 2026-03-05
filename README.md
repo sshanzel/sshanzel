@@ -4,7 +4,7 @@
 
 **Senior Software Engineer** · Full-Stack · Backend-Leaning · 10+ Years
 
-I build production-grade systems that scale. Core member of a startup that grew from **200k → 1M+ users** in a year.
+I build production-grade systems that scale. Core member of a startup that grew from **200k → 2M+ users** in a year.
 I care about clean architecture, developer experience, and shipping things that actually work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sshanzel)
